@@ -3,7 +3,8 @@
     {
       "pluginName": "ft_web",
       "pluginPackageName": "com.zlz.ft_web",
-      "pluginVersionCode": "1003"
+      "pluginVersionCode": "1003",
+      "pluginDownLoadUrl":""
     }
   ]
 }
